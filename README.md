@@ -37,7 +37,6 @@ First make sure [AWS CLI is installed](https://docs.aws.amazon.com/cli/latest/us
 After that:
 Initialize Terraform from the terraform project folder
 ```sh
-cd terraform_infra_deployment
 terraform init
 ```
 After initialization done, changes variable values you will find in variables.tf
